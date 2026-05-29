@@ -1,4 +1,4 @@
-<h1 align="center">## Hi there 👋 Mohammed Al-Kurdi</h1>
+<h1 align="center">Hi there 👋 Mohammed Al-Kurdi</h1>
 
 <p align="center">
   <strong>Full Stack Developer</strong> · 10+ Jahre Erfahrung · PHP / Laravel · React / Next.js
@@ -42,14 +42,7 @@
 
 ---
 
-## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moh-alkurdi&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moh-alkurdi&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
-
----
 
 ## Kontakt / Contact
 
