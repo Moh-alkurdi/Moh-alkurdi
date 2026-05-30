@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 Mohammed Al-Kurdi</h1>
+<h1 align="center">Hi there 👋 Ich bin Mohammed</h1>
 
 <p align="center">
   <strong>Full Stack Developer</strong> · 10+ Jahre Erfahrung · PHP / Laravel · React / Next.js
