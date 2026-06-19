@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 Ich bin Mohammed</h1>
 
 <p align="center">
-  <strong>Senior Full Stack Developer</strong> · 10+ Jahre Erfahrung · PHP (Laravel / Symfony) · React / Next.js
+  <strong>Senior Full Stack Developer</strong>
 </p>
 
 <p align="center">
