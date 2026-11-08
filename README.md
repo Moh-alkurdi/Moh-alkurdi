@@ -79,4 +79,10 @@
 
 </p>
 
+### 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Moh-alkurdi&label=PROFILE%20VIEWS&countColor=%23263759)
